@@ -1,0 +1,11 @@
+*.zip
+*.csv
+*.pyc
+__pycache__
+*.txt
+*test.py
+*.idf
+*.ds
+*.tf
+.data
+!requirements.txt
